@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: naveen909/java-app:v20
+        image: naveen909/java-app:
         ports:
         - containerPort: 8080
